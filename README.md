@@ -1,5 +1,5 @@
 # 💫 About Me:
-"👋 Welcome to my world of decentralized gaming! Currently crafting a chess masterpiece with Flutter 🚀 and Solidity 🔨. Also, take a peek at my completed React tic-tac-toe project for some casual fun! Let's code and play! 🎮"
+""👋 Welcome to my coding universe! I'm diving deep into decentralized systems, crafting a chess experience with Flutter 🚀 and Solidity 🔨. Take a peek at my React tic-tac-toe project for a taste of my frontend prowess. Let's build, innovate, and shape the future of technology together! 💻✨""
 
 
 ## 🌐 Socials:
