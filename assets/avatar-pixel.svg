@@ -1,0 +1,186 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="avatarClip">
+      <circle cx="120" cy="120" r="72"/>
+    </clipPath>
+  </defs>
+
+  <!-- outer counter-rotating dashed ring -->
+  <circle cx="120" cy="120" r="90" fill="none" stroke="#7C5CFF" stroke-width="1.5" stroke-dasharray="2 12" opacity="0.6">
+    <animateTransform attributeName="transform" type="rotate" from="360 120 120" to="0 120 120" dur="14s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- inner rotating dashed ring -->
+  <circle cx="120" cy="120" r="81" fill="none" stroke="#00FFD1" stroke-width="2" stroke-dasharray="4 10">
+    <animateTransform attributeName="transform" type="rotate" from="0 120 120" to="360 120 120" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- avatar photo, circle-clipped -->
+  <image href="https://github.com/AanandAB.png" x="48" y="48" width="144" height="144" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- pixel-decode overlay, clipped to same circle -->
+  <g clip-path="url(#avatarClip)">
+    <rect x="84.00" y="48.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="1.05s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="102.00" y="48.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.97s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="120.00" y="48.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.97s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="138.00" y="48.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="1.05s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="66.00" y="66.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.97s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="84.00" y="66.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="102.00" y="66.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="120.00" y="66.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="138.00" y="66.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="156.00" y="66.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.97s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="48.00" y="84.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="1.05s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="66.00" y="84.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="84.00" y="84.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.58s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="102.00" y="84.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.43s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="120.00" y="84.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.43s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="138.00" y="84.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.58s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="156.00" y="84.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="174.00" y="84.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="1.05s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="48.00" y="102.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.97s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="66.00" y="102.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="84.00" y="102.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.43s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="102.00" y="102.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.19s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="120.00" y="102.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.19s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="138.00" y="102.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.43s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="156.00" y="102.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="174.00" y="102.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.97s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="48.00" y="120.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.97s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="66.00" y="120.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="84.00" y="120.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.43s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="102.00" y="120.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.19s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="120.00" y="120.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.19s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="138.00" y="120.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.43s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="156.00" y="120.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="174.00" y="120.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.97s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="48.00" y="138.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="1.05s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="66.00" y="138.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="84.00" y="138.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.58s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="102.00" y="138.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.43s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="120.00" y="138.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.43s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="138.00" y="138.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.58s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="156.00" y="138.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="174.00" y="138.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="1.05s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="66.00" y="156.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.97s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="84.00" y="156.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="102.00" y="156.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="120.00" y="156.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="138.00" y="156.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="156.00" y="156.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.97s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="84.00" y="174.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="1.05s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="102.00" y="174.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.97s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="120.00" y="174.00" width="18.00" height="18.00" fill="#050A0E">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="0.97s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="138.00" y="174.00" width="18.00" height="18.00" fill="#00FFD1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.15;0.55;0.9;1" dur="6s" begin="1.05s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- online status LED, bottom-right -->
+  <circle cx="169.0" cy="169.0" r="9" fill="#050A0E" stroke="#00FFD1" stroke-width="2"/>
+  <circle cx="169.0" cy="169.0" r="4.5" fill="#00FFD1">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
