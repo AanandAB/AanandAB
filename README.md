@@ -2,6 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,35:0A1F1C,65:0A1F1C,100:050A0E&height=210&section=header&text=AANAND%20AB&fontSize=64&fontColor=E8F4F2&fontAlignY=42&desc=SYSTEM%20ONLINE%20·%20FULL-STACK%20·%20WEB3%20·%20AI&descAlignY=62&descSize=15&animation=fadeIn)
 
+<img src="https://avatars.githubusercontent.com/u/47333951?v=4" width="96" alt="AanandAB"/>
+
 </div>
 
 <div align="center">
@@ -11,10 +13,14 @@ $ whoami
 > full-stack developer, web3 builder, based in Kerala, India
 
 $ status --check
-> [ OK ] 8 modules deployed · currently compiling AIOS v2.0
+> [ OK ] 8 modules featured of 44 repos · currently compiling AIOS v2.0
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=00FFD1&center=true&vCenter=true&width=680&lines=Flutter+%C2%B7+React+%C2%B7+Solidity+%C2%B7+Web3+Engineer;Building+decentralised+systems;AIOS+v2.0+%E2%80%94+AI+that+IS+the+OS;Kerala+%F0%9F%8C%B4+%E2%86%92+shipping+one+block+at+a+time" alt="Typing SVG" />
+
+<br/>
+
+**[ `stack` ](#devstack--drivers-loaded) · [ `missions` ](#varlogmissions--process-list) · [ `stats` ](#procstats--diagnostics) · [ `contact` ](#etcnetwork--interfaces)**
 
 </div>
 
@@ -25,13 +31,15 @@ $ status --check
 
 ```jsonc
 {
-  "role"       : "Full-Stack Developer & Web3 Builder",
-  "location"   : "Kerala, India",
-  "focus"      : ["decentralised systems", "flutter apps", "ai agents", "react frontends"],
-  "building"   : "AIOS v2.0 — an OS driven entirely by local AI agents",
-  "philosophy" : "AIOS does not run on your computer. AIOS IS your computer.",
-  "projects"   : 8,
-  "uptime"     : "actively shipping"
+  "role"         : "Full-Stack Developer & Web3 Builder",
+  "location"     : "Kerala, India",
+  "focus"        : ["decentralised systems", "flutter apps", "ai agents", "react frontends"],
+  "building"     : "AIOS v2.0 — an OS driven entirely by local AI agents",
+  "philosophy"   : "AIOS does not run on your computer. AIOS IS your computer.",
+  "repositories" : 44,
+  "featured"     : 8,
+  "achievement"  : "Pull Shark 🦈",
+  "uptime"       : "actively shipping"
 }
 ```
 
@@ -145,7 +153,7 @@ A blockchain-powered chess game where every move is a transaction — transparen
 - Decentralised gameplay — no middleman, no central server
 - On-chain game history — an immutable record of every match
 
-[![Source](https://img.shields.io/badge/SOURCE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AanandAB)
+[![Source](https://img.shields.io/badge/SOURCE-github.com%2FAanandAB%2FDechess-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AanandAB/Dechess)
 
 </details>
 
@@ -164,7 +172,7 @@ A point-of-sale system for cafés with real-time order management — a React + 
 - Native Android / mobile app
 - QR menu generator
 
-[![Source](https://img.shields.io/badge/SOURCE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AanandAB)
+[![Source](https://img.shields.io/badge/SOURCE-search%20repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AanandAB?tab=repositories&q=cafe)
 
 </details>
 
@@ -185,7 +193,7 @@ A high-converting SPA showcasing CafePOSPro, wired into a Salesforce org so ever
 - Real-time inventory and kitchen display system
 - Three-tier pricing with a monthly / yearly toggle
 
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Visit-00FFD1?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/AanandAB)
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-search%20repos-00FFD1?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/AanandAB?tab=repositories&q=bitnexel)
 
 </details>
 
@@ -219,7 +227,7 @@ A sleek, conversion-optimised landing page built with React and Tailwind for pix
 - Smooth, purposeful animation
 - Built for conversion
 
-[![Source](https://img.shields.io/badge/SOURCE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AanandAB)
+[![Source](https://img.shields.io/badge/SOURCE-search%20repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AanandAB?tab=repositories&q=evently)
 
 </details>
 
@@ -236,7 +244,7 @@ A modern take on the classic, with fluid transitions and a minimalist UI for a p
 - Smooth transitions throughout
 - Multi-platform support
 
-[![Source](https://img.shields.io/badge/SOURCE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AanandAB)
+[![Source](https://img.shields.io/badge/SOURCE-search%20repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AanandAB?tab=repositories&q=tactis)
 
 </details>
 
