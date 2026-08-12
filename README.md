@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,35:0A1F1C,65:0A1F1C,100:050A0E&height=210&section=header&text=AANAND%20AB&fontSize=64&fontColor=E8F4F2&fontAlignY=42&desc=SYSTEM%20ONLINE%20·%20FULL-STACK%20·%20WEB3%20·%20AI&descAlignY=62&descSize=15&animation=fadeIn)
 
-<img src="https://avatars.githubusercontent.com/u/47333951?v=4" width="96" alt="AanandAB"/>
+<img src="https://raw.githubusercontent.com/AanandAB/AanandAB/main/assets/avatar-pixel.svg" width="140" alt="AanandAB"/>
 
 </div>
 
@@ -292,11 +292,7 @@ A modern take on the classic, with fluid transitions and a minimalist UI for a p
 
 <div align="center">
 
-```
-$ shutdown --status
-> AIOS does not run on your computer. AIOS IS your computer.
-> session will resume on next commit —
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1200&color=00FFD1&center=true&vCenter=true&width=560&lines=%24+shutdown+--status;%3E+AIOS+IS+your+computer.;%3E+session+resumes+on+next+commit+_" alt="Shutdown sequence" />
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,35:0A1F1C,65:0A1F1C,100:050A0E&height=110&section=footer)
 
