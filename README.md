@@ -2,8 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,35:0A1F1C,65:0A1F1C,100:050A0E&height=220&section=header&text=AANAND%20AB&fontSize=64&fontColor=E8F4F2&fontAlignY=38&desc=SYSTEM%20ONLINE%20·%20FULL-STACK%20·%20WEB3%20·%20AI&descAlignY=58&descSize=15&animation=fadeIn)
 
-<!-- animated profile photo: scanning ring draws in, then the photo zooms + fades in, then a soft pulse loops -->
-<img src="https://raw.githubusercontent.com/AanandAB/AanandAB/main/assets/avatar-intro.svg" width="220" height="220" alt="AanandAB"/>
+<!-- animated profile photo: scanning ring draws in, then the photo zooms + fades in, then a soft pulse loops. Inlined as a data URI, no separate file needed -->
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYwIiBoZWlnaHQ9IjI2MCIgdmlld0JveD0iMCAwIDI2MCAyNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8Y2xpcFBhdGggaWQ9ImF2YXRhckNsaXAiPgogICAgICA8Y2lyY2xlIGN4PSIxMzAiIGN5PSIxMzAiIHI9IjExMiIvPgogICAgPC9jbGlwUGF0aD4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciIHg9Ii01MCUiIHk9Ii01MCUiIHdpZHRoPSIyMDAlIiBoZWlnaHQ9IjIwMCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI0IiByZXN1bHQ9ImJsdXIiLz4KICAgICAgPGZlTWVyZ2U+CiAgICAgICAgPGZlTWVyZ2VOb2RlIGluPSJibHVyIi8+CiAgICAgICAgPGZlTWVyZ2VOb2RlIGluPSJTb3VyY2VHcmFwaGljIi8+CiAgICAgIDwvZmVNZXJnZT4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KCiAgPCEtLSBzY2FubmluZyByaW5nIHRoYXQgZHJhd3MgaXRzZWxmIGluIC0tPgogIDxjaXJjbGUgY3g9IjEzMCIgY3k9IjEzMCIgcj0iMTIyIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMEZGRDEiIHN0cm9rZS13aWR0aD0iMyIKICAgICAgICAgIHN0cm9rZS1kYXNoYXJyYXk9Ijc2NyIgc3Ryb2tlLWRhc2hvZmZzZXQ9Ijc2NyIgb3BhY2l0eT0iMC45NSIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0cm9rZS1kYXNob2Zmc2V0IiBmcm9tPSI3NjciIHRvPSIwIiBkdXI9IjEuNHMiCiAgICAgICAgICAgICBmaWxsPSJmcmVlemUiIGNhbGNNb2RlPSJzcGxpbmUiIGtleVNwbGluZXM9IjAuNCAwIDAuMiAxIi8+CiAgPC9jaXJjbGU+CgogIDwhLS0gYXZhdGFyIHBob3RvIGdyb3dzICsgZmFkZXMgaW4gZnJvbSB0aGUgY2VudGVyIC0tPgogIDxpbWFnZSBocmVmPSJodHRwczovL2ltYWdlcy53ZXNlcnYubmwvP3VybD1naXRodWIuY29tL0FhbmFuZEFCLnBuZyZhbXA7aD0zMjAmYW1wO3c9MzIwJmFtcDtmaXQ9Y292ZXIiCiAgICAgICAgIHg9IjEzMCIgeT0iMTMwIiB3aWR0aD0iMCIgaGVpZ2h0PSIwIiBvcGFjaXR5PSIwIiBjbGlwLXBhdGg9InVybCgjYXZhdGFyQ2xpcCkiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieCIgZnJvbT0iMTMwIiB0bz0iMTgiIGR1cj0iMC45cyIgYmVnaW49IjAuNnMiCiAgICAgICAgICAgICBmaWxsPSJmcmVlemUiIGNhbGNNb2RlPSJzcGxpbmUiIGtleVNwbGluZXM9IjAuNCAwIDAuMiAxIi8+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJ5IiBmcm9tPSIxMzAiIHRvPSIxOCIgZHVyPSIwLjlzIiBiZWdpbj0iMC42cyIKICAgICAgICAgICAgIGZpbGw9ImZyZWV6ZSIgY2FsY01vZGU9InNwbGluZSIga2V5U3BsaW5lcz0iMC40IDAgMC4yIDEiLz4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9IndpZHRoIiBmcm9tPSIwIiB0bz0iMjI0IiBkdXI9IjAuOXMiIGJlZ2luPSIwLjZzIgogICAgICAgICAgICAgZmlsbD0iZnJlZXplIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwLjQgMCAwLjIgMSIvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iaGVpZ2h0IiBmcm9tPSIwIiB0bz0iMjI0IiBkdXI9IjAuOXMiIGJlZ2luPSIwLjZzIgogICAgICAgICAgICAgZmlsbD0iZnJlZXplIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwLjQgMCAwLjIgMSIvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgZnJvbT0iMCIgdG89IjEiIGR1cj0iMC43cyIgYmVnaW49IjAuNnMiIGZpbGw9ImZyZWV6ZSIvPgogIDwvaW1hZ2U+CgogIDwhLS0gc29mdCBwdWxzZSBsb29wLCBraWNrcyBpbiBvbmNlIHRoZSBpbnRybyBmaW5pc2hlcyAtLT4KICA8Y2lyY2xlIGN4PSIxMzAiIGN5PSIxMzAiIHI9IjEyMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBGRkQxIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMCI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MC41NTswIiBkdXI9IjIuNnMiIGJlZ2luPSIxLjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iciIgdmFsdWVzPSIxMjI7MTMyOzEyMiIgZHVyPSIyLjZzIiBiZWdpbj0iMS43cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICA8L2NpcmNsZT4KPC9zdmc+Cg==" width="220" height="220" alt="AanandAB"/>
 
 <br/><br/>
 
@@ -283,11 +283,9 @@ A modern take on the classic, with fluid transitions and a minimalist UI for a p
 
 <br/>
 
-> 💡 **setup needed for the two new pieces:**
-> 1. **Avatar** — add the file below to your repo at `assets/avatar-intro.svg` (replacing the old `avatar-pixel.svg`). It's plain SVG, no build step.
-> 2. **3D contribution graph** — add the workflow below as `.github/workflows/profile-3d-contrib.yml`. It runs daily, generates the 3D bar-chart SVGs (day/night colour cycle) straight into `profile-3d-contrib/` on your `main` branch, same pattern as your existing snake-animation workflow.
+> 💡 **setup needed for the 3D contribution graph:** add the workflow below as `.github/workflows/profile-3d-contrib.yml`. It runs daily, generates the 3D bar-chart SVGs (day/night colour cycle) straight into `profile-3d-contrib/` on your `main` branch, same pattern as your existing snake-animation workflow.
 >
-> The trophy case and streak stats need no setup — they're live API calls and just work.
+> The avatar animation is now inlined directly in the README as a data URI, so no extra file to commit there. The trophy case and streak stats need no setup either — they're live API calls and just work.
 
 <details>
 <summary>📄 <code>.github/workflows/profile-3d-contrib.yml</code></summary>
