@@ -95,7 +95,7 @@ Right now, I'm especially interested in building **AI agents and practical softw
 
 <div align="center">
 
-### A selection of projects I'm proud to have built or contributed to
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=00FFD1&center=true&vCenter=true&width=850&lines=Featured+Builds+%F0%9F%9A%80;Recent+projects+I%27m+shipping;Built+to+solve+real+problems+%E2%9C%A6" alt="Animated featured builds header" />
 
 </div>
 
@@ -105,28 +105,32 @@ Right now, I'm especially interested in building **AI agents and practical softw
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AIOS v2.0
+### 🚚 OnamDelivery — "Swiggy for Flowers"
 
-> **AI that is the OS.**
+> **A flower-delivery marketplace for Kannur & Onam.**
 
-An experimental AI-first environment powered by local models and specialist agents.
+A three-sided platform — customer app, delivery-partner fleet, and vendor + owner dashboards — on a Cloudflare-native backend.
 
-**⚙️ Exploring**
+**⚙️ Stack**
 
-`AI Agents` · `Local LLMs` · `Automation` · `Multi-Agent Systems`
+`Flutter` · `Cloudflare Workers` · `D1 + R2 + KV`
+
+<a href="https://github.com/AanandAB/OnamDelivery"><img src="https://img.shields.io/badge/View_Repo_%E2%86%92-00FFD1?style=for-the-badge&labelColor=050A0E&color=00FFD1&logo=github&logoColor=00FFD1" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### ♟️ Knightly
+### 🐠 Happy Aquarium
 
-> **Decentralized chess on the blockchain.**
+> **An immersive aquarium store + full custom CMS.**
 
-A B.Tech project exploring how smart contracts can power trustless gameplay.
+A cinematic storefront for a Kerala aquarium store — 35+ fish species, compatibility checker, aquarium planner, and a role-based admin CMS.
 
-**⚙️ Built with**
+**⚙️ Stack**
 
-`Flutter` · `Solidity` · `Web3` · `MetaMask`
+`Next.js (OpenNext)` · `Cloudflare D1` · `R2` · `GSAP`
+
+<a href="https://github.com/AanandAB/aquarium"><img src="https://img.shields.io/badge/View_Repo_%E2%86%92-00FFD1?style=for-the-badge&labelColor=050A0E&color=00FFD1&logo=github&logoColor=00FFD1" /></a>
 
 </td>
 </tr>
@@ -134,28 +138,65 @@ A B.Tech project exploring how smart contracts can power trustless gameplay.
 <tr>
 <td width="50%" valign="top">
 
-### ☕ CafePOSPro
+### 🌸 Onapookkal
 
-> **A complete point-of-sale ecosystem.**
+> **An Onam pookkalam designer.**
 
-Desktop and mobile tools designed for modern café operations.
+A festive flower-rangoli designer web app built for Onam, running on the edge.
 
-**⚙️ Built with**
+**⚙️ Stack**
 
-`React` · `Electron` · `Flutter` · `PostgreSQL`
+`Next.js` · `TypeScript` · `Cloudflare D1`
+
+<a href="https://github.com/AanandAB/Onapoo"><img src="https://img.shields.io/badge/View_Repo_%E2%86%92-00FFD1?style=for-the-badge&labelColor=050A0E&color=00FFD1&logo=github&logoColor=00FFD1" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Salesforce Integrations
+### 📈 LeadtoClose
 
-> **Business systems that actually talk to each other.**
+> **Compliance-aware freelance business manager.**
 
-Building integrations, automation and user experiences on Salesforce.
+One app that takes a freelance project from first conversation to closed-won and paid — with Indian GST, DPDPA & legal compliance baked into a rules engine.
 
-**⚙️ Working with**
+**⚙️ Stack**
 
-`Apex` · `LWC` · `REST APIs` · `MuleSoft`
+`Flutter` · `Dart`
+
+<a href="https://github.com/AanandAB/LeadtoClose"><img src="https://img.shields.io/badge/View_Repo_%E2%86%92-00FFD1?style=for-the-badge&labelColor=050A0E&color=00FFD1&logo=github&logoColor=00FFD1" /></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Bytebot (AIOS)
+
+> **A self-hosted AI desktop agent.**
+
+Automates computer tasks through natural-language commands inside a containerized Linux desktop.
+
+**⚙️ Stack**
+
+`TypeScript` · `AI Agents` · `Docker`
+
+<a href="https://github.com/AanandAB/AIOS"><img src="https://img.shields.io/badge/View_Repo_%E2%86%92-00FFD1?style=for-the-badge&labelColor=050A0E&color=00FFD1&logo=github&logoColor=00FFD1" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧁 Baby Bakers
+
+> **A warm bakery site for a Kerala home baker.**
+
+A clean, friendly storefront for a local bakery brand.
+
+**⚙️ Stack**
+
+`HTML` · `CSS` · `JavaScript`
+
+<a href="https://github.com/AanandAB/babybakers"><img src="https://img.shields.io/badge/View_Repo_%E2%86%92-00FFD1?style=for-the-badge&labelColor=050A0E&color=00FFD1&logo=github&logoColor=00FFD1" /></a>
 
 </td>
 </tr>
@@ -259,11 +300,7 @@ flowchart LR
 
 <div align="center">
 
-| 🧠 AI Systems | ☁️ Salesforce | 📱 Cross Platform | 🔗 Web3 |
-|---|---|---|---|
-| AI Agents | Apex & LWC | Flutter | Smart Contracts |
-| Local LLMs | Integrations | React | Solidity |
-| Automation | CRM Architecture | Mobile UX | Decentralized Apps |
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1100&color=00FFD1&center=true&vCenter=true&width=900&lines=Building%3A+OnamDelivery+%E2%80%94+Swiggy+for+Flowers+%F0%9F%9A%9A;Shipping%3A+Onapookkal+%E2%80%94+Onam+flower+rangoli+%F0%9F%8C%B8;Polishing%3A+Happy+Aquarium+%E2%80%94+store+%2B+CMS+%F0%9F%90%A0;Growing%3A+LeadtoClose+%E2%80%94+freelance+ops+%F0%9F%93%88;Exploring%3A+AI+Agents+%2B+Cloudflare+edge+apps+%E2%98%81%EF%B8%8F" alt="Currently exploring animation" />
 
 </div>
 
