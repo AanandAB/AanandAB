@@ -1,303 +1,306 @@
 <div align="center">
 
-<!-- HERO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PREMIUM ANIMATED HERO                                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/AanandAB/AanandAB/main/assets/hero.gif" width="100%" alt="Animated developer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AANAND%20AB&fontAlign=50&fontAlignY=38&fontSize=68&fontColor=E8F4F2&animation=twinkling&color=0:050A0E,50:083B3A,100:00FFD1&desc=SALESFORCE%20DEVELOPER%20%E2%80%A2%20FULL-STACK%20BUILDER%20%E2%80%A2%20AI%20EXPLORER&descAlign=50&descAlignY=62&descSize=16" width="100%" alt="Aanand AB animated header" />
 
-<h1>Hey, I'm Aanand AB <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+<a href="https://github.com/AanandAB">
+  <img src="https://github.com/AanandAB.png" width="150" style="border-radius:50%;" alt="Aanand AB profile photo" />
+</a>
 
-<p>
-  <strong>Salesforce Developer · Full-Stack Builder · AI & Web3 Explorer</strong><br/>
-  <sub>Kerala, India 🇮🇳 · Building products, systems and ideas that ship.</sub>
-</p>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=00FFD1&center=true&vCenter=true&width=780&lines=Salesforce+Developer+%E2%9A%A1+Full-Stack+Builder;Flutter+%C2%B7+React+%C2%B7+Solidity+%C2%B7+AI+Agents;Building+AIOS+v2.0+%E2%80%94+AI+that+is+the+OS;Turning+ideas+into+products%2C+one+commit+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=850&color=00FFD1&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Aanand+AB+%F0%9F%91%8B;Salesforce+Developer+%E2%9A%A1+Full-Stack+Builder;Flutter+%C2%B7+React+%C2%B7+AI+Agents+%C2%B7+Web3;I+build+ideas.+Then+I+ship+them.+%F0%9F%9A%80" alt="Animated introduction" />
+
+<br/>
+
+<a href="#-what-im-building"><img src="https://img.shields.io/badge/WHAT_I_BUILD-00FFD1?style=for-the-badge&logo=rocket&logoColor=050A0E&labelColor=050A0E" /></a>
+<a href="#-contribution-universe"><img src="https://img.shields.io/badge/MY_CONTRIBUTIONS-00FFD1?style=for-the-badge&logo=github&logoColor=050A0E&labelColor=050A0E" /></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/LET'S_CONNECT-00FFD1?style=for-the-badge&logo=linkedin&logoColor=050A0E&labelColor=050A0E" /></a>
 
 <br/><br/>
 
-<a href="https://github.com/AanandAB"><img src="https://img.shields.io/github/followers/AanandAB?label=Followers&style=for-the-badge&color=00FFD1&labelColor=050A0E" /></a>
-<a href="https://github.com/AanandAB"><img src="https://komarev.com/ghpvc/?username=AanandAB&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS" /></a>
+<img src="https://komarev.com/ghpvc/?username=AanandAB&label=PROFILE+VIEWS&style=for-the-badge&color=00FFD1" />
+<img src="https://img.shields.io/github/followers/AanandAB?label=FOLLOWERS&style=for-the-badge&color=00FFD1&labelColor=050A0E" />
+<img src="https://img.shields.io/github/stars/AanandAB?label=TOTAL+STARS&style=for-the-badge&color=00FFD1&labelColor=050A0E" />
 
 </div>
 
-> whoami
+---
 
-name: Aanand AB
-role: Salesforce Developer & Full-Stack Builder
-location: Kerala, India
-currently_building: AIOS v2.0
-interests:
-  - AI Agents
-  - Salesforce Development
-  - Flutter
-  - React
-  - Web3 & Solidity
-mindset: "Build it. Ship it. Improve it."
+## 👨‍💻 About Me
 
-I enjoy building complete digital products—from polished interfaces and mobile apps to AI-powered systems, Salesforce integrations and decentralized applications.
+<table>
+<tr>
+<td width="60%">
 
-⚡ Tech Arsenal
+### Hi! I'm Aanand 👋
+
+I'm a **Salesforce Developer and Full-Stack Builder** from Kerala, India.
+
+I enjoy creating things that combine:
+
+⚡ **Clean user experiences**  
+🧠 **AI-powered systems**  
+📱 **Cross-platform applications**  
+☁️ **Salesforce automation & integrations**  
+🔗 **Web3 and decentralized applications**
+
+Right now, I'm especially interested in building **AI agents and practical software products** that solve real problems.
+
+<br/>
+
+```text
+💡 BUILD  →  🚀 SHIP  →  📈 LEARN  →  🔁 REPEAT
+```
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AanandAB&show_icons=true&hide_border=true&bg_color=050A0E&title_color=00FFD1&icon_color=00FFD1&text_color=E8F4F2&rank_icon=github" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ My Tech Universe
 
 <div align="center">
 
-Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,dart,python,java,solidity,html,css&theme=dark" />
 
-Frameworks & Platforms
+<br/><br/>
+
+### 🛠️ Frameworks & Platforms
 
 <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,vite,tailwind,electron,salesforce&theme=dark" />
 
-Tools & Infrastructure
+<br/><br/>
+
+### ☁️ Tools & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=git,github,firebase,postgres,mysql,docker,figma,ps&theme=dark" />
 
 </div>
 
-🚀 Featured Builds
+---
+
+# 🚀 What I'm Building
+
+<div align="center">
+
+### A selection of projects I'm proud to have built or contributed to
+
+</div>
+
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-🤖 AIOS v2.0
+### 🤖 AIOS v2.0
 
-An AI-first operating environment driven by local agents.
+> **AI that is the OS.**
 
-Multi-agent orchestration
+An experimental AI-first environment powered by local models and specialist agents.
 
-Local AI experimentation
+**⚙️ Exploring**
 
-GUI vision and automation
-
-Privacy-focused architecture
+`AI Agents` · `Local LLMs` · `Automation` · `Multi-Agent Systems`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-♟️ Knightly
+### ♟️ Knightly
 
-A decentralized chess platform built as a blockchain-powered application.
+> **Decentralized chess on the blockchain.**
 
-Solidity smart contracts
+A B.Tech project exploring how smart contracts can power trustless gameplay.
 
-On-chain game interactions
+**⚙️ Built with**
 
-Trustless gameplay
-
-Immutable match history
+`Flutter` · `Solidity` · `Web3` · `MetaMask`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-☕ CafePOSPro
+### ☕ CafePOSPro
 
-A multi-platform point-of-sale ecosystem for cafés.
+> **A complete point-of-sale ecosystem.**
 
-React + Electron desktop experience
+Desktop and mobile tools designed for modern café operations.
 
-Flutter mobile app
+**⚙️ Built with**
 
-QR menu workflow
-
-Real-time operations
+`React` · `Electron` · `Flutter` · `PostgreSQL`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-🏢 Salesforce & Business Apps
+### ☁️ Salesforce Integrations
 
-Modern business workflows connected to powerful CRM systems.
+> **Business systems that actually talk to each other.**
 
-Salesforce development
+Building integrations, automation and user experiences on Salesforce.
 
-REST API integrations
+**⚙️ Working with**
 
-Lead and workflow automation
-
-Full-stack dashboards
+`Apex` · `LWC` · `REST APIs` · `MuleSoft`
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <sub>Explore more in my repositories ↓</sub>
+
+<a href="https://github.com/AanandAB?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES_%E2%86%92-00FFD1?style=for-the-badge&labelColor=050A0E&color=00FFD1" />
+</a>
+
 </div>
 
-📊 Contribution Universe
+---
+
+# 🌌 Contribution Universe
 
 <div align="center">
 
-<!-- MAIN ANIMATED CONTRIBUTION VISUAL -->
-
-<img src="https://raw.githubusercontent.com/AanandAB/AanandAB/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+### This is where the real story is written — one commit at a time.
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
+<!-- 3D CONTRIBUTION GRAPH -->
+<img src="https://raw.githubusercontent.com/AanandAB/AanandAB/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Animated 3D contribution graph" />
 
-<img src="https://raw.githubusercontent.com/AanandAB/AanandAB/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation eating contribution graph" />
+<br/><br/>
+
+### 🐍 My contribution history, brought to life
+
+<img src="https://raw.githubusercontent.com/AanandAB/AanandAB/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake contribution graph" />
 
 </div>
 
-🛰️ GitHub Telemetry
+<br/>
+
+<div align="center">
+
+### 🔥 Current GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AanandAB&hide_border=true&background=050A0E&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=E8F4F2&dates=8CA7A5" />
+
+</div>
+
+---
+
+## 📡 Developer Telemetry
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AanandAB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050A0E&title_color=00FFD1&icon_color=00FFD1&text_color=E8F4F2&rank_icon=github" />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanandAB&layout=compact&hide_border=true&bg_color=050A0E&title_color=00FFD1&text_color=E8F4F2" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AanandAB&hide_border=true&background=050A0E&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=E8F4F2&dates=8CA7A5" />
+<br/>
 
-<br/><br/>
+<div align="center">
+
+### 🏆 Achievement Cabinet
 
 <img src="https://github-profile-trophy.vercel.app/?username=AanandAB&theme=algolia&no-bg=true&no-frame=true&row=1&column=7&margin-w=8" width="100%" />
 
 </div>
 
-🧬 Activity Stream
+---
+
+# 🧬 Latest GitHub Activity
+
+<div align="center">
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
-Pro tip: Enable the GitHub Activity Readme workflow below to automatically populate this section with your latest public activity.
+</div>
 
-🌊 The Contribution Animation Stack
+> This section can update automatically and show your latest pushes, pull requests, stars and repository activity.
 
-Your profile is designed around motion with purpose, not random decoration:
+---
 
-┌─────────────────────────────────────────────┐
-│  HERO: typing animation                    │
-│  ↓                                          │
-│  CONTRIBUTIONS: animated 3D landscape       │
-│  ↓                                          │
-│  SNAKE: live contribution grid animation    │
-│  ↓                                          │
-│  STATS: streak + language + telemetry       │
-│  ↓                                          │
-│  TROPHIES: achievement showcase             │
-│  ↓                                          │
-│  ACTIVITY: latest GitHub actions            │
-└─────────────────────────────────────────────┘
+## 🗺️ My Developer Journey
 
-🛠️ Recommended GitHub Actions
+<div align="center">
 
-1. 3D Contribution Graph
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[🎨 Design]
+    B --> C[💻 Build]
+    C --> D[🧪 Test]
+    D --> E[🚀 Ship]
+    E --> F[📊 Learn]
+    F --> A
+```
 
-Create:
+</div>
 
-.github/workflows/profile-3d-contrib.yml
+---
 
-name: Generate 3D Contribution Graph
+# 🎯 Currently Exploring
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<div align="center">
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+| 🧠 AI Systems | ☁️ Salesforce | 📱 Cross Platform | 🔗 Web3 |
+|---|---|---|---|
+| AI Agents | Apex & LWC | Flutter | Smart Contracts |
+| Local LLMs | Integrations | React | Solidity |
+| Automation | CRM Architecture | Mobile UX | Decentralized Apps |
 
-    steps:
-      - uses: actions/checkout@v4
+</div>
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: AanandAB
+---
 
-      - name: Commit generated files
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "chore: update contribution graph" || exit 0
-          git push
+## 💬 Random Dev Wisdom
 
-2. Contribution Snake Animation
+<div align="center">
 
-Create:
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
 
-.github/workflows/snake.yml
+</div>
 
-name: Generate Contribution Snake
+---
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: AanandAB
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-3. Latest GitHub Activity
-
-Create:
-
-.github/workflows/update-activity.yml
-
-name: Update README with latest activity
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-🌐 Connect With Me
+# 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/AanandAB">
-  <img src="https://img.shields.io/badge/GitHub-AanandAB-050A0E?style=for-the-badge&logo=github&logoColor=00FFD1" />
+<img src="https://img.shields.io/badge/GitHub-AanandAB-050A0E?style=for-the-badge&logo=github&logoColor=00FFD1" />
 </a>
+
 <a href="https://linkedin.com/in/aanandab">
-  <img src="https://img.shields.io/badge/LinkedIn-Aanand%20AB-050A0E?style=for-the-badge&logo=linkedin&logoColor=00FFD1" />
+<img src="https://img.shields.io/badge/LinkedIn-Aanand_AB-050A0E?style=for-the-badge&logo=linkedin&logoColor=00FFD1" />
 </a>
+
 <a href="https://instagram.com/aanand_ab">
-  <img src="https://img.shields.io/badge/Instagram-@aanand__ab-050A0E?style=for-the-badge&logo=instagram&logoColor=00FFD1" />
+<img src="https://img.shields.io/badge/Instagram-@aanand__ab-050A0E?style=for-the-badge&logo=instagram&logoColor=00FFD1" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1200&color=00FFD1&center=true&vCenter=true&width=700&lines=%3E+build+something+worth+committing.;%3E+ship+it.+learn.+repeat.;%3E+see+you+on+the+next+commit+%E2%9C%A6" alt="Closing message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3200&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=%24+git+commit+-m+%22keep+building%22;%3E+Code+is+temporary.+What+you+build+can+last.;%3E+See+you+on+the+next+commit+%E2%9C%A6" alt="Animated closing" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:050A0E,50:083B3A,100:00FFD1" width="100%" />
 
 </div>
