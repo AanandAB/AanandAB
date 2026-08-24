@@ -316,6 +316,26 @@ flowchart LR
 
 ---
 
+# 🎮 Play a Mini-Game
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=00FFD1&center=true&vCenter=true&width=800&lines=Bored%3F+Play+Commit+Snake+%F0%9F%90%8D;Eat+commits.+Grow+your+contribution+graph.;A+tiny+game+I+built+on+GitHub+Pages" alt="Animated game header" />
+
+<br/>
+
+<a href="https://aanandab.github.io/commit-snake/" target="_blank">
+<img src="https://img.shields.io/badge/%E2%96%B6_PLAY_COMMIT_SNAKE-00FFD1?style=for-the-badge&labelColor=050A0E&color=00FFD1&logo=github&logoColor=00FFD1" alt="Play Commit Snake" />
+</a>
+
+<br/><br/>
+
+<sub>🐍 Steer the snake, eat the green commits, grow your contribution graph. Keyboard <b>↑↓←→ / WASD</b> or tap the d-pad on mobile. Opens in a new tab.</sub>
+
+</div>
+
+---
+
 # 🤝 Connect
 
 <div align="center">
