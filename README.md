@@ -270,6 +270,7 @@ A clean, friendly storefront for a local bakery brand.
 <div align="center">
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#35](https://github.com/ethanplusai/harvey/pull/35) in [ethanplusai/harvey](https://github.com/ethanplusai/harvey)
 <!--END_SECTION:activity-->
 
 </div>
