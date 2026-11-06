@@ -270,7 +270,7 @@ A clean, friendly storefront for a local bakery brand.
 <div align="center">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/ethanplusai/harvey/pull/35#issuecomment-6388834396) in [ethanplusai/harvey](https://github.com/ethanplusai/harvey)
+1. 🗣 Commented on [#35](https://github.com/ethanplusai/sellbird/pull/35#issuecomment-6388834396) in [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird)
 <!--END_SECTION:activity-->
 
 </div>
